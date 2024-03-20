@@ -1,0 +1,3 @@
+﻿  Client.cpp
+C:\Users\MishaPC\Desktop\Системка\UDPMulticast\UDPClient\Client.cpp(38,60): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  UDPClient.vcxproj -> C:\Users\MishaPC\Desktop\Системка\UDPMulticast\x64\Debug\UDPClient.exe

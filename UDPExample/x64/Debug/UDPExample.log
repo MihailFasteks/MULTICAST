@@ -1,0 +1,12 @@
+﻿  Server.cpp
+C:\Users\MishaPC\Desktop\Системка\UDPMulticast\UDPExample\Server.cpp(21,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\MishaPC\Desktop\Системка\UDPMulticast\UDPExample\Server.cpp(104,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\MishaPC\Desktop\Системка\UDPMulticast\UDPExample\Server.cpp(108,11): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "SOCKET"
+C:\Users\MishaPC\Desktop\Системка\UDPMulticast\UDPExample\Server.cpp(108,11): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\MishaPC\Desktop\Системка\UDPMulticast\UDPExample\Server.cpp(108,11): message : рекомендуется использовать "%Id" в строке форматирования
+C:\Users\MishaPC\Desktop\Системка\UDPMulticast\UDPExample\Server.cpp(108,11): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\Users\MishaPC\Desktop\Системка\UDPMulticast\UDPExample\Server.cpp(111,27): warning C4477: "sprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "SOCKET"
+C:\Users\MishaPC\Desktop\Системка\UDPMulticast\UDPExample\Server.cpp(111,27): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\MishaPC\Desktop\Системка\UDPMulticast\UDPExample\Server.cpp(111,27): message : рекомендуется использовать "%Id" в строке форматирования
+C:\Users\MishaPC\Desktop\Системка\UDPMulticast\UDPExample\Server.cpp(111,27): message : рекомендуется использовать "%I64d" в строке форматирования
+  UDPExample.vcxproj -> C:\Users\MishaPC\Desktop\Системка\UDPMulticast\x64\Debug\UDPListener.exe
